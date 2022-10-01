@@ -57,6 +57,8 @@ An original creation by *KerbSimpleCo*
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
+or [![CKAN][ckan:img]][ckan:url]
+
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]

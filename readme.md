@@ -123,7 +123,7 @@ agency, flags, config
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/PicknPull/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209729-*/ "nli2work Ind Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209965-*/ "NohArk's Pick'n'Pull"
 [MOD:issue]: https://github.com/zer0Kerbal/PicknPull/issues "Issues"
 [MOD:pages]: https://zer0kerbal.github.io/PicknPull/ "GitHub Pages"
 [MOD:notic]: https://zer0kerbal.github.io/PicknPull/Notices "Notices"
